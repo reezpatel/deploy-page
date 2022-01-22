@@ -10,7 +10,7 @@
     "form-data": "^3.0.0",
     "formidable": "^1.2.2",
     "getdomain": "^1.3.1",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^3.1.1",
     "tar-fs": "^2.1.0",
     "yargs": "^15.4.0"
   }
